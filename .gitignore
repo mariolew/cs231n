@@ -1,0 +1,11 @@
+*.pdf
+*.zip
+*.jpg
+*.pyc
+*.o
+assignment1/cs231n/build/*
+assignment1/cs231n/datasets/*
+assignment2/cs231n/build/*
+assignment2/cs231n/datasets/*
+assignment3/cs231n/build/*
+assignment3/cs231n/datasets/*
