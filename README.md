@@ -1,2 +1,2 @@
 # cs231n
-Some code for my courses.
+Some assignment codes for the online course cs231n, from Stanford.
